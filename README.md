@@ -1,2 +1,5 @@
-# 2d-web-games
-2D Game Programming with HTML5 Canvas  ( A YouTube Series)
+# 2D Game Programming with HTML5 Canvas
+An educational YouTube series by Saeb Naser (Saeb0x). This repository contains all the code for the games built in the series; basic episodes code won't be here since it's really easy to follow up with it, in YouTube.
+
+## Running
+You can either clone and run or simply use the live github page link in each game's commit!
