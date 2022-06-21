@@ -2,4 +2,4 @@
 An educational YouTube series by Saeb Naser (Saeb0x). This repository contains all the code for the games built in the series; basic episodes code won't be here since it's really easy to follow up with it, in YouTube.
 
 ## Running
-- You can either clone and run or simply use the live github page link in each game's commit!
+- You can clone and run or simply use the live github page link in each game's commit!
