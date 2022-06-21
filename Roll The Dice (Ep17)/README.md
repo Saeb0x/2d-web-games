@@ -5,3 +5,7 @@ The player throws a pair of dice. The sum of the two top faces is what matters. 
 
 # Play
 - https://saeb0x.github.io/2d-web-games/
+
+# Screenshot
+
+![RTD](https://user-images.githubusercontent.com/56490771/174857357-a146c90a-754b-4504-8380-4e96f328f624.PNG)
