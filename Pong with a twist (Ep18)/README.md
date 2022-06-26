@@ -1,5 +1,5 @@
 
-# Pong With A Twist Game
+# Pong with a twist Game
 
 # Game Design
 This is a recreation of Atari's 70s classic pong video game with a little twist where the player is allowed to move in any direction (Up, Down, Right, and Left).
