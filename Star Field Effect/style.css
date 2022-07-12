@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#slider
+{
+    position: fixed;
+    width: 120px;
+    top: 10px;
+    right: 20px;
+    color:white;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+#slider input
+{
+    width: 100%;
+    margin-bottom: 5px;
+}
