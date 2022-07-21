@@ -5,4 +5,5 @@ A game of object-collection and enemy-avoidance game, where the explorer (hunter
 
 # Screenshot
 ![SS1](https://user-images.githubusercontent.com/56490771/180218162-e82d30de-1737-4cc5-9182-cd13820bbc95.PNG)
+
 ![SS2](https://user-images.githubusercontent.com/56490771/180218183-2990f1c1-581c-4372-83d5-916d75db1147.PNG)
